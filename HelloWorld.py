@@ -2,3 +2,4 @@
 
 print("Hello World")
 
+print("Psyaryu also says hello world.")
