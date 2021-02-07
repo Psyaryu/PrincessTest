@@ -1,6 +1,6 @@
 # This is a program that prints "hello world"
 
-print("BAD Pikachu (>^-^)>")
+print("Good Pikachu (>^-^)>")
 
 print("Psyaryu also says hello world.")
 
